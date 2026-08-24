@@ -56,14 +56,14 @@ Data Science student at RV University. I pair AI features with production backen
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BaconKage&show_icons=true&hide_border=true&bg_color=00000000&title_color=F59E0B&icon_color=F59E0B&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BaconKage&show_icons=true&hide_border=true&bg_color=00000000&title_color=B45309&icon_color=B45309&text_color=24292f" />
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BaconKage&show_icons=true&hide_border=true&bg_color=00000000&title_color=B45309&icon_color=B45309&text_color=24292f" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-rouge.vercel.app/api?username=BaconKage&show_icons=true&hide_border=true&bg_color=00000000&title_color=F59E0B&icon_color=F59E0B&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eta-rouge.vercel.app/api?username=BaconKage&show_icons=true&hide_border=true&bg_color=00000000&title_color=B45309&icon_color=B45309&text_color=24292f" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats-eta-rouge.vercel.app/api?username=BaconKage&show_icons=true&hide_border=true&bg_color=00000000&title_color=B45309&icon_color=B45309&text_color=24292f" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BaconKage&layout=compact&hide_border=true&bg_color=00000000&title_color=F59E0B&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BaconKage&layout=compact&hide_border=true&bg_color=00000000&title_color=B45309&text_color=24292f" />
-  <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaconKage&layout=compact&hide_border=true&bg_color=00000000&title_color=B45309&text_color=24292f" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-rouge.vercel.app/api/top-langs/?username=BaconKage&layout=compact&hide_border=true&bg_color=00000000&title_color=F59E0B&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eta-rouge.vercel.app/api/top-langs/?username=BaconKage&layout=compact&hide_border=true&bg_color=00000000&title_color=B45309&text_color=24292f" />
+  <img height="165" alt="top languages" src="https://github-readme-stats-eta-rouge.vercel.app/api/top-langs/?username=BaconKage&layout=compact&hide_border=true&bg_color=00000000&title_color=B45309&text_color=24292f" />
 </picture>
 
 <picture>
