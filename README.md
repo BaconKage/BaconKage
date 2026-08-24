@@ -1,8 +1,13 @@
-# Shubhang Srinivas Varda
+<div align="center">
 
-Data Science student building full-stack products and AI-powered tools — from computer vision pipelines to LLM-backed chat systems. Based in Bengaluru, India.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shubhang%20Srinivas%20Varda&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
-[Portfolio](https://personal-portfolio-ten-alpha-49.vercel.app/) · [GitHub](https://github.com/BaconKage)
+<a href="https://personal-portfolio-ten-alpha-49.vercel.app/">Portfolio</a> ·
+<a href="https://github.com/BaconKage">GitHub</a>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;FastAPI+%2B+React+%2B+LLMs;Data+Science+student%2C+Bengaluru%2C+India" alt="Typing SVG" />
+
+</div>
 
 ## What I'm building
 
@@ -14,7 +19,28 @@ Data Science student building full-stack products and AI-powered tools — from 
 
 ## Stack
 
-`Python` `TypeScript` `React` `FastAPI` `Flask` `Node.js` `MongoDB` `Firebase` `OpenAI / Groq APIs`
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,flask,nodejs,mongodb,firebase,git&theme=dark" />
+</div>
+
+## GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BaconKage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaconKage&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=BaconKage&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaconKage/BaconKage/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaconKage/BaconKage/output/snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/BaconKage/BaconKage/output/snake.svg" />
+</picture>
+</div>
 
 ## Currently
 
