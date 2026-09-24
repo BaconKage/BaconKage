@@ -1,10 +1,14 @@
 <div align="center">
 
-# Shubhang Srinivas Varda
+<a href="https://personal-portfolio-professional-gamma.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-light.svg" />
+    <img alt="Shubhang Srinivas Varda: full-stack and AI engineer, Data Science at RV University, Bengaluru" src="assets/card-dark.svg" width="100%" />
+  </picture>
+</a>
 
-**Full-stack & AI engineer** &nbsp;·&nbsp; Data Science @ RV University &nbsp;·&nbsp; Bengaluru
-
-I build AI systems that are honest about what they don't know, and ship them behind real backends.
+### I build AI systems that are honest about what they don't know, and ship them behind real backends.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=F59E0B)](https://personal-portfolio-professional-gamma.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge)](https://linkedin.com/in/shubhang-srinivas-varda-322ba4297/)
@@ -65,6 +69,22 @@ Competition redesign of RV University's placement site: a draggable recruiter wa
 </tr>
 </table>
 
+## Live
+
+<!-- live:start -->
+**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **14,267** engagement snapshots of **1,283** YouTube videos across 591 collection cycles, 663 still being tracked. Last cycle 45 min ago when this was built.
+
+**Latest commits**
+
+- [`Personal_Portfolio_Professional`](https://github.com/BaconKage/Personal_Portfolio_Professional) &nbsp;Performance pass and buttermax-style mouse effects <sub>[24 Sep](https://github.com/BaconKage/Personal_Portfolio_Professional/commit/5740eedf2e679b1a6f043da8ba0d12d87ed75399)</sub>
+- [`WhiteCloudRealty`](https://github.com/BaconKage/WhiteCloudRealty) &nbsp;Fix double page load on navigation and full-height hero <sub>[23 Sep](https://github.com/BaconKage/WhiteCloudRealty/commit/e2c87d65f518f3870cbf8d7675d5fa23e110c598)</sub>
+- [`firstdropai0-code/HealthCareSim`](https://github.com/firstdropai0-code/HealthCareSim) &nbsp;Offer the whole app in Hindi, not just the run flow <sub>[23 Sep](https://github.com/firstdropai0-code/HealthCareSim/commit/86ac82881b35183d967f5c60cd591fc43e2cb462)</sub>
+- [`content-death-clock`](https://github.com/BaconKage/content-death-clock) &nbsp;Guard against analysing a cohort before it has matured; refresh status text <sub>[20 Sep](https://github.com/BaconKage/content-death-clock/commit/1ae4022c95bcab07e2045ef4ca8fe4657ebb0f8f)</sub>
+- [`vikasmygym/MYMGYM_landingPage`](https://github.com/vikasmygym/MYMGYM_landingPage) &nbsp;Fix blank hero after intro when an old cached script is served <sub>[17 Sep](https://github.com/vikasmygym/MYMGYM_landingPage/commit/fcec3985e59e5c3a0a990c1b513a492493b913e1)</sub>
+
+<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 24 Sep 2026, 17:45 UTC</sub>
+<!-- live:end -->
+
 ## Research
 
 - **Imperfection as a constitutive property of artificial intelligence.** *AI & Society*, Springer, 2025. Argues that AI's flaws should be treated as a design principle rather than a defect. [Read the paper](https://link.springer.com/article/10.1007/s00146-025-02837-2)
@@ -103,14 +123,6 @@ Competition redesign of RV University's placement site: a draggable recruiter wa
 ![Ollama](https://img.shields.io/badge/Ollama-1a1a1a?style=flat-square&logo=ollama&logoColor=F59E0B)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=flat-square&logo=githubactions&logoColor=F59E0B)
 
-<div align="center">
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaconKage/BaconKage/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaconKage/BaconKage/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/BaconKage/BaconKage/output/snake.svg" />
-</picture>
-</div>
 
 ## Now
 

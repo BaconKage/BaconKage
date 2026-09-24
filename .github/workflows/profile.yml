@@ -1,0 +1,44 @@
+name: build profile
+
+# Rebuilds the profile card and the "Live" section from the GitHub API.
+# Standard-library Python only, so there is nothing to install.
+
+on:
+  schedule:
+    - cron: "17 3 * * *"       # daily, 08:47 IST
+  push:
+    branches: [main]
+    paths: [scripts/**, .github/workflows/profile.yml]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build card and README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/build_profile.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets
+          git diff --cached --quiet && exit 0
+          git commit -m "Rebuild profile card and live section"
+          git push
