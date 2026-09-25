@@ -72,17 +72,17 @@ Competition redesign of RV University's placement site: a draggable recruiter wa
 ## Live
 
 <!-- live:start -->
-**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **14,267** engagement snapshots of **1,283** YouTube videos across 591 collection cycles, 663 still being tracked. Last cycle 48 min ago when this was built.
+**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **14,556** engagement snapshots of **1,301** YouTube videos across 606 collection cycles, 665 still being tracked. Last cycle 48 min ago when this was built.
 
 **Latest commits**
 
+- [`rvu-preprints`](https://github.com/BaconKage/rvu-preprints) &nbsp;Stop tracking the backend virtualenv <sub>[24 Sep](https://github.com/BaconKage/rvu-preprints/commit/251f8e2d95ffee9896cdcd74522369e86e06c933)</sub>
 - [`Personal_Portfolio_Professional`](https://github.com/BaconKage/Personal_Portfolio_Professional) &nbsp;Performance pass and buttermax-style mouse effects <sub>[24 Sep](https://github.com/BaconKage/Personal_Portfolio_Professional/commit/5740eedf2e679b1a6f043da8ba0d12d87ed75399)</sub>
 - [`WhiteCloudRealty`](https://github.com/BaconKage/WhiteCloudRealty) &nbsp;Fix double page load on navigation and full-height hero <sub>[23 Sep](https://github.com/BaconKage/WhiteCloudRealty/commit/e2c87d65f518f3870cbf8d7675d5fa23e110c598)</sub>
 - [`firstdropai0-code/HealthCareSim`](https://github.com/firstdropai0-code/HealthCareSim) &nbsp;Offer the whole app in Hindi, not just the run flow <sub>[23 Sep](https://github.com/firstdropai0-code/HealthCareSim/commit/86ac82881b35183d967f5c60cd591fc43e2cb462)</sub>
 - [`content-death-clock`](https://github.com/BaconKage/content-death-clock) &nbsp;Guard against analysing a cohort before it has matured; refresh status text <sub>[20 Sep](https://github.com/BaconKage/content-death-clock/commit/1ae4022c95bcab07e2045ef4ca8fe4657ebb0f8f)</sub>
-- [`rvu-placements-revamp`](https://github.com/BaconKage/rvu-placements-revamp) &nbsp;Show + and % at the number&#x27;s size in stat figures <sub>[14 Sep](https://github.com/BaconKage/rvu-placements-revamp/commit/baf1d36f22b71472b55f436ac89ebdd50029bacf)</sub>
 
-<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 24 Sep 2026, 17:48 UTC</sub>
+<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 25 Sep 2026, 08:48 UTC</sub>
 <!-- live:end -->
 
 ## Research
