@@ -72,7 +72,7 @@ Competition redesign of RV University's placement site: a draggable recruiter wa
 ## Live
 
 <!-- live:start -->
-**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **14,556** engagement snapshots of **1,301** YouTube videos across 606 collection cycles, 665 still being tracked. Last cycle 48 min ago when this was built.
+**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **15,207** engagement snapshots of **1,353** YouTube videos across 630 collection cycles, 667 still being tracked. Last cycle 34 min ago when this was built.
 
 **Latest commits**
 
@@ -82,7 +82,7 @@ Competition redesign of RV University's placement site: a draggable recruiter wa
 - [`firstdropai0-code/HealthCareSim`](https://github.com/firstdropai0-code/HealthCareSim) &nbsp;Offer the whole app in Hindi, not just the run flow <sub>[23 Sep](https://github.com/firstdropai0-code/HealthCareSim/commit/86ac82881b35183d967f5c60cd591fc43e2cb462)</sub>
 - [`content-death-clock`](https://github.com/BaconKage/content-death-clock) &nbsp;Guard against analysing a cohort before it has matured; refresh status text <sub>[20 Sep](https://github.com/BaconKage/content-death-clock/commit/1ae4022c95bcab07e2045ef4ca8fe4657ebb0f8f)</sub>
 
-<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 25 Sep 2026, 08:48 UTC</sub>
+<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 26 Sep 2026, 08:34 UTC</sub>
 <!-- live:end -->
 
 ## Research
