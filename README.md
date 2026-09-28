@@ -72,17 +72,17 @@ Competition redesign of RV University's placement site: a draggable recruiter wa
 ## Live
 
 <!-- live:start -->
-**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **15,886** engagement snapshots of **1,411** YouTube videos across 655 collection cycles, 673 still being tracked. Last cycle 14 min ago when this was built.
+**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **16,546** engagement snapshots of **1,464** YouTube videos across 679 collection cycles, 689 still being tracked. Last cycle 44 min ago when this was built.
 
 **Latest commits**
 
+- [`ENA`](https://github.com/BaconKage/ENA) &nbsp;Stabilize dependency update policy <sub>[28 Sep](https://github.com/BaconKage/ENA/commit/7a1d224e1413ce00bedc7ed3947e32715f9299c9)</sub>
 - [`rvu-preprints`](https://github.com/BaconKage/rvu-preprints) &nbsp;Stop tracking the backend virtualenv <sub>[24 Sep](https://github.com/BaconKage/rvu-preprints/commit/251f8e2d95ffee9896cdcd74522369e86e06c933)</sub>
 - [`Personal_Portfolio_Professional`](https://github.com/BaconKage/Personal_Portfolio_Professional) &nbsp;Performance pass and buttermax-style mouse effects <sub>[24 Sep](https://github.com/BaconKage/Personal_Portfolio_Professional/commit/5740eedf2e679b1a6f043da8ba0d12d87ed75399)</sub>
 - [`WhiteCloudRealty`](https://github.com/BaconKage/WhiteCloudRealty) &nbsp;Fix double page load on navigation and full-height hero <sub>[23 Sep](https://github.com/BaconKage/WhiteCloudRealty/commit/e2c87d65f518f3870cbf8d7675d5fa23e110c598)</sub>
 - [`firstdropai0-code/HealthCareSim`](https://github.com/firstdropai0-code/HealthCareSim) &nbsp;Offer the whole app in Hindi, not just the run flow <sub>[23 Sep](https://github.com/firstdropai0-code/HealthCareSim/commit/86ac82881b35183d967f5c60cd591fc43e2cb462)</sub>
-- [`content-death-clock`](https://github.com/BaconKage/content-death-clock) &nbsp;Guard against analysing a cohort before it has matured; refresh status text <sub>[20 Sep](https://github.com/BaconKage/content-death-clock/commit/1ae4022c95bcab07e2045ef4ca8fe4657ebb0f8f)</sub>
 
-<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 27 Sep 2026, 09:14 UTC</sub>
+<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 28 Sep 2026, 09:44 UTC</sub>
 <!-- live:end -->
 
 ## Research
