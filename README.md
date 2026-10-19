@@ -72,17 +72,17 @@ Competition redesign of RV University's placement site: a draggable recruiter wa
 ## Live
 
 <!-- live:start -->
-**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **28,682** engagement snapshots of **2,406** YouTube videos across 1,157 collection cycles, 642 still being tracked. Last cycle 60 min ago when this was built.
+**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **29,060** engagement snapshots of **2,416** YouTube videos across 1,182 collection cycles, 610 still being tracked. Last cycle 50 min ago when this was built.
 
 **Latest commits**
 
-- [`content-death-clock`](https://github.com/BaconKage/content-death-clock) &nbsp;paper: final Cohort A results, with the figures the plan promised <sub>[16 Oct](https://github.com/BaconKage/content-death-clock/commit/83be55fec9abf75dc153b7c1ef9d0162e1157bc1)</sub>
-- [`firstdropai0-code/HealthCareSim`](https://github.com/firstdropai0-code/HealthCareSim) &nbsp;Let a mentor leave a note on a trainee&#x27;s run <sub>[02 Oct](https://github.com/firstdropai0-code/HealthCareSim/commit/d3bc607ce6d662d85b2003dc8e46ae344e781548)</sub>
+- [`firstdropai0-code/HealthCareSim`](https://github.com/firstdropai0-code/HealthCareSim) &nbsp;Make the simulation a scene, not a chat log beside a portrait <sub>[19 Oct](https://github.com/firstdropai0-code/HealthCareSim/commit/b1b2eb4d44156c7106ae666c673f7d35354d73da)</sub>
+- [`content-death-clock`](https://github.com/BaconKage/content-death-clock) &nbsp;AMENDMENT 2026-10-18: practical early-warning model, tested once on Cohort C <sub>[18 Oct](https://github.com/BaconKage/content-death-clock/commit/f2ddd76fdc4ad0e537dbee304419070d6f2bde0d)</sub>
 - [`ENA`](https://github.com/BaconKage/ENA) &nbsp;Stabilize dependency update policy <sub>[28 Sep](https://github.com/BaconKage/ENA/commit/7a1d224e1413ce00bedc7ed3947e32715f9299c9)</sub>
 - [`rvu-preprints`](https://github.com/BaconKage/rvu-preprints) &nbsp;Stop tracking the backend virtualenv <sub>[24 Sep](https://github.com/BaconKage/rvu-preprints/commit/251f8e2d95ffee9896cdcd74522369e86e06c933)</sub>
 - [`Personal_Portfolio_Professional`](https://github.com/BaconKage/Personal_Portfolio_Professional) &nbsp;Performance pass and buttermax-style mouse effects <sub>[24 Sep](https://github.com/BaconKage/Personal_Portfolio_Professional/commit/5740eedf2e679b1a6f043da8ba0d12d87ed75399)</sub>
 
-<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 18 Oct 2026, 08:00 UTC</sub>
+<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 19 Oct 2026, 08:50 UTC</sub>
 <!-- live:end -->
 
 ## Research
