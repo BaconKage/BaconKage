@@ -72,17 +72,17 @@ Competition redesign of RV University's placement site: a draggable recruiter wa
 ## Live
 
 <!-- live:start -->
-**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **32,826** engagement snapshots of **2,721** YouTube videos across 1,374 collection cycles, 517 still being tracked. Last cycle 57 min ago when this was built.
+**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **33,328** engagement snapshots of **2,767** YouTube videos across 1,399 collection cycles, 507 still being tracked. Last cycle 38 min ago when this was built.
 
 **Latest commits**
 
+- [`content-death-clock`](https://github.com/BaconKage/content-death-clock) &nbsp;papers: Cohort C results and the paste-a-link tool <sub>[27 Oct](https://github.com/BaconKage/content-death-clock/commit/c1680c6f9ff1083f08f26c528c337940a4afa7a4)</sub>
 - [`firstdropai0-code/HealthCareSim`](https://github.com/firstdropai0-code/HealthCareSim) &nbsp;Make the simulation a scene, not a chat log beside a portrait <sub>[19 Oct](https://github.com/firstdropai0-code/HealthCareSim/commit/b1b2eb4d44156c7106ae666c673f7d35354d73da)</sub>
-- [`content-death-clock`](https://github.com/BaconKage/content-death-clock) &nbsp;AMENDMENT 2026-10-18: practical early-warning model, tested once on Cohort C <sub>[18 Oct](https://github.com/BaconKage/content-death-clock/commit/f2ddd76fdc4ad0e537dbee304419070d6f2bde0d)</sub>
 - [`ENA`](https://github.com/BaconKage/ENA) &nbsp;Stabilize dependency update policy <sub>[28 Sep](https://github.com/BaconKage/ENA/commit/7a1d224e1413ce00bedc7ed3947e32715f9299c9)</sub>
 - [`rvu-preprints`](https://github.com/BaconKage/rvu-preprints) &nbsp;Stop tracking the backend virtualenv <sub>[24 Sep](https://github.com/BaconKage/rvu-preprints/commit/251f8e2d95ffee9896cdcd74522369e86e06c933)</sub>
 - [`Personal_Portfolio_Professional`](https://github.com/BaconKage/Personal_Portfolio_Professional) &nbsp;Performance pass and buttermax-style mouse effects <sub>[24 Sep](https://github.com/BaconKage/Personal_Portfolio_Professional/commit/5740eedf2e679b1a6f043da8ba0d12d87ed75399)</sub>
 
-<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 27 Oct 2026, 08:57 UTC</sub>
+<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 28 Oct 2026, 09:38 UTC</sub>
 <!-- live:end -->
 
 ## Research
