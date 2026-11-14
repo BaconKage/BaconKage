@@ -72,17 +72,16 @@ Competition redesign of RV University's placement site: a draggable recruiter wa
 ## Live
 
 <!-- live:start -->
-**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **41,078** engagement snapshots of **3,385** YouTube videos across 1,784 collection cycles, 529 still being tracked. Last cycle 56 min ago when this was built.
+**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **41,575** engagement snapshots of **3,429** YouTube videos across 1,808 collection cycles, 525 still being tracked. Last cycle 23 min ago when this was built.
 
 **Latest commits**
 
-- [`WhiteCloudRealty`](https://github.com/BaconKage/WhiteCloudRealty) &nbsp;Add share buttons to projects and the YouTube channel link <sub>[12 Nov](https://github.com/BaconKage/WhiteCloudRealty/commit/5d6051c92f0df0195eed737892fc2c62cfaab948)</sub>
+- [`WhiteCloudRealty`](https://github.com/BaconKage/WhiteCloudRealty) &nbsp;Update team photos for Rachan and Akash <sub>[13 Nov](https://github.com/BaconKage/WhiteCloudRealty/commit/9bf7d962f9440cc04985ee70f19d9a574c4967ff)</sub>
 - [`firstdropai0-code/HealthCareSim`](https://github.com/firstdropai0-code/HealthCareSim) &nbsp;Serve the face tracker and its model from this site <sub>[11 Nov](https://github.com/firstdropai0-code/HealthCareSim/commit/9bd31e7dba62c78715bf7dbb1e75c38c2dd41136)</sub>
 - [`content-death-clock`](https://github.com/BaconKage/content-death-clock) &nbsp;tool: a failed check no longer shows the last video&#x27;s report or a stuck loader <sub>[29 Oct](https://github.com/BaconKage/content-death-clock/commit/62e0b39d8b7ae81df30d323611d839d4dcab46a3)</sub>
 - [`ENA`](https://github.com/BaconKage/ENA) &nbsp;Stabilize dependency update policy <sub>[28 Sep](https://github.com/BaconKage/ENA/commit/7a1d224e1413ce00bedc7ed3947e32715f9299c9)</sub>
-- [`rvu-preprints`](https://github.com/BaconKage/rvu-preprints) &nbsp;Stop tracking the backend virtualenv <sub>[24 Sep](https://github.com/BaconKage/rvu-preprints/commit/251f8e2d95ffee9896cdcd74522369e86e06c933)</sub>
 
-<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 13 Nov 2026, 10:56 UTC</sub>
+<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 14 Nov 2026, 10:23 UTC</sub>
 <!-- live:end -->
 
 ## Research
