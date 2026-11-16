@@ -72,17 +72,17 @@ Competition redesign of RV University's placement site: a draggable recruiter wa
 ## Live
 
 <!-- live:start -->
-**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **42,091** engagement snapshots of **3,466** YouTube videos across 1,832 collection cycles, 526 still being tracked. Last cycle 50 min ago when this was built.
+**[Content Death Clock](https://github.com/BaconKage/content-death-clock) collector** &nbsp;·&nbsp; running unattended on GitHub Actions since 30 Aug: **42,530** engagement snapshots of **3,492** YouTube videos across 1,857 collection cycles, 519 still being tracked. Last cycle 13 min ago when this was built.
 
 **Latest commits**
 
-- [`Personal_Portfolio_Professional`](https://github.com/BaconKage/Personal_Portfolio_Professional) &nbsp;Add core dive, reactor bloom, hold to energise, dusk and section rail <sub>[14 Nov](https://github.com/BaconKage/Personal_Portfolio_Professional/commit/43a88a8557592fa96c9026299067489470eada23)</sub>
+- [`Personal_Portfolio_Professional`](https://github.com/BaconKage/Personal_Portfolio_Professional) &nbsp;Open cards from the click, rewrite copy, add real product screens <sub>[15 Nov](https://github.com/BaconKage/Personal_Portfolio_Professional/commit/e7efb3cbd27597d1c09b6e57c5ca03ed7f44a568)</sub>
 - [`CityScape_updated`](https://github.com/BaconKage/CityScape_updated) &nbsp;Fix partner and company LinkedIn links <sub>[14 Nov](https://github.com/BaconKage/CityScape_updated/commit/3ef0910e652308598d9bbe009deceb683f0b7a41)</sub>
 - [`WhiteCloudRealty`](https://github.com/BaconKage/WhiteCloudRealty) &nbsp;Replace Akash&#x27;s team photo <sub>[14 Nov](https://github.com/BaconKage/WhiteCloudRealty/commit/1b8c07a458447123f942c12d7e6d99d453b02549)</sub>
 - [`firstdropai0-code/HealthCareSim`](https://github.com/firstdropai0-code/HealthCareSim) &nbsp;Serve the face tracker and its model from this site <sub>[11 Nov](https://github.com/firstdropai0-code/HealthCareSim/commit/9bd31e7dba62c78715bf7dbb1e75c38c2dd41136)</sub>
 - [`content-death-clock`](https://github.com/BaconKage/content-death-clock) &nbsp;tool: a failed check no longer shows the last video&#x27;s report or a stuck loader <sub>[29 Oct](https://github.com/BaconKage/content-death-clock/commit/62e0b39d8b7ae81df30d323611d839d4dcab46a3)</sub>
 
-<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 15 Nov 2026, 10:50 UTC</sub>
+<sub>Rebuilt daily by [a GitHub Action](.github/workflows/profile.yml) · last run 16 Nov 2026, 11:13 UTC</sub>
 <!-- live:end -->
 
 ## Research
